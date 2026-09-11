@@ -1,7 +1,7 @@
 
 <div align="center">
 
-👋 Olá, eu sou Nathan Mendes!
+👋 Olá, eu sou Nathan Mendes!<br>
 💻 Full Stack Developer | Backend Specialist
 
 PHP • JavaScript • React • Node.js • SQL
