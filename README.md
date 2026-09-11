@@ -45,8 +45,7 @@ Também tenho experiência utilizando Git, Docker e AWS em projetos e ambientes 
   <img src="https://skillicons.dev/icons?i=git,docker,aws,github" />
 </div>
 
-💼 Experiência
-👨‍💻 Full Stack Developer
+👨‍💻 Full Stack Developer<br>
 
 Atuação no desenvolvimento e sustentação de sistemas web, trabalhando com:
 
