@@ -49,17 +49,17 @@ Também tenho experiência utilizando Git, Docker e AWS em projetos e ambientes 
 
 Atuação no desenvolvimento e sustentação de sistemas web, trabalhando com:
 
-🚀 - Desenvolvimento de aplicações Full Stack
-🔧 - Manutenção e evolução de sistemas existentes
-⚛️ - Modernização de sistemas legados com React
-🟢 - Desenvolvimento de APIs e integrações utilizando Node.js
-🐘 - Desenvolvimento Back-end com PHP
-🗄️ - Desenvolvimento de consultas e operações em MySQL
-🔄 - Integração entre sistemas e serviços
-🧩 - Desenvolvimento e manutenção de sistemas SaaS
-🐙 - Versionamento e colaboração utilizando Git/GitHub
-🐳 - Utilização de Docker
-☁️ - Experiência com AWS
+🚀 - Desenvolvimento de aplicações Full Stack<br>
+🔧 - Manutenção e evolução de sistemas existentes<br>
+⚛️ - Modernização de sistemas legados com React<br>
+🟢 - Desenvolvimento de APIs e integrações utilizando Node.js<br>
+🐘 - Desenvolvimento Back-end com PHP<br>
+🗄️ - Desenvolvimento de consultas e operações em MySQL<br>
+🔄 - Integração entre sistemas e serviços<br>
+🧩 - Desenvolvimento e manutenção de sistemas SaaS<br>
+🐙 - Versionamento e colaboração utilizando Git/GitHub<br>
+🐳 - Utilização de Docker<br>
+☁️ - Experiência com AWS<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanMendes0202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
